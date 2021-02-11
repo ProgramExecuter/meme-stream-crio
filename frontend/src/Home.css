@@ -1,0 +1,22 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    margin: 1vw
+}
+
+.ele {
+    margin: 1vw;
+    width: 45%;
+}
+
+.text {
+    margin: 1vw !important;
+    width: 98vw;
+}
+
+.inheritedButton {
+    color: inherit;
+    background: inherit;
+    border: none;
+    text-decoration: none;
+}
